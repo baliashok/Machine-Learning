@@ -1,2 +1,2 @@
 # Machine-Learning
-Repositorie related to the scikit-learn Python machine learning library.
+Repositorie related to the Python machine learning library.
